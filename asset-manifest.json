@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FactReact/static/css/main.9e264e43.css",
+    "main.js": "/FactReact/static/js/main.a6dd300b.js",
+    "static/media/logo2.png": "/FactReact/static/media/logo2.24bfd267fbf0084ea8c0.png",
+    "index.html": "/FactReact/index.html",
+    "main.9e264e43.css.map": "/FactReact/static/css/main.9e264e43.css.map",
+    "main.a6dd300b.js.map": "/FactReact/static/js/main.a6dd300b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e264e43.css",
+    "static/js/main.a6dd300b.js"
+  ]
+}
